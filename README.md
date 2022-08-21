@@ -1,2 +1,3 @@
 my first readme > REDME.md
-echo my first readme
+echo my first  readme
+  
